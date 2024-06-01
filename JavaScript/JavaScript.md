@@ -104,7 +104,7 @@ ECMAScript 运行在浏览器中然后再结合 Web APIs 才是真正的 JavaScr
 </script>
 ```
 
-
+**主要学习的就是关于 document 的知识**
 
 ## 1.获取DOM 对象
 
@@ -966,6 +966,8 @@ window.addEventListener('resize', function() {
 获取出来的是数值,方便计算
 
 注意: 获取的是可视宽高, 如果盒子是隐藏的,获取的结果是0
+
+
 
 
 
